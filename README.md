@@ -1,1 +1,1 @@
-## 4 digit seven segment display timer (split second - seconds) with verilog for Basys3 Fpga board
+## Configurable and bit size adjustable linear feedback shift register for pseudo random number generation or white noise generation
